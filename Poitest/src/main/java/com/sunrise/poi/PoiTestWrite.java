@@ -14,7 +14,7 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 
-public class PoiTest {
+public class PoiTestWrite {
     FileOutputStream fileOutputStream = null;
     String PATH = "G:\\Down\\";
 
